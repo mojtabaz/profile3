@@ -7,6 +7,7 @@ function mouseOut(){
     mouseover =false;
 }
 window.onload=function(){
+    
     counter();
     
 setInterval(function(){
